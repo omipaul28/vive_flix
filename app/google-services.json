@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695435815633",
+    "project_id": "vibeflix01-a57fb",
+    "storage_bucket": "vibeflix01-a57fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695435815633:android:f1bc6f89b349604af4f3f0",
+        "android_client_info": {
+          "package_name": "com.artofcode.vibeflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYKRWnwZapBAAy8yv_mztjkfuVSfiai6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
